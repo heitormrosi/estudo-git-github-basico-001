@@ -16,6 +16,8 @@
 ## Índice
  1. Controlando Versões com Git e GitHub
      1. Introdução
+     2. Tour prático
+         1. [citacoes](https://github.com/heitormrosi/citacoes)
      
  
 
