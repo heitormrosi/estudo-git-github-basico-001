@@ -14,6 +14,9 @@
 ![Infográfico][Infográfico]
 
 ## Índice
+ 1. Controlando Versões com Git e GitHub
+     1. Introdução
+     
  
 
 [Capa do repositório]: ./docs/capa-repo.png
