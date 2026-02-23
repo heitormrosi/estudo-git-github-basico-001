@@ -18,6 +18,7 @@
      1. Introdução
      2. Tour prático
          1. [citacoes](https://github.com/heitormrosi/citacoes)
+     3. Trabalhando com repositório local
      
  
 
